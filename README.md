@@ -50,7 +50,7 @@
     > 若存在参考，可将参考链接置于自身的`learn`文件内部或添加至本文件的[参考](##参考)位置。
 > 若有多位用户贡献，可以将**【learn,demo】**放置于`特定设计模式/用户名/`目录下
 ## 参考
-- [https://refactoringguru.cn/](https://refactoringguru.cn/)
+- [Refactoring.Guru](https://refactoringguru.cn/)
 - [《重学 Java 设计模式》](https://github.com/fuzhengwei/itstack-demo-design)
 - [《大话设计模式》](https://item.jd.com/10079261.html)
 - [菜鸟教程](https://www.runoob.com/design-pattern/design-pattern-intro.html)
