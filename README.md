@@ -37,6 +37,8 @@
 6、合成复用原则（Composite Reuse Principle）
 
 合成复用原则是指：尽量使用合成/聚合的方式，而不是使用继承。
+### UML类图
+可参考[30分钟学会UML类图](https://zhuanlan.zhihu.com/p/109655171)
 ## 目录结构
 - [创建型模式](./创建型模式)
 - [结构型模式](./结构型模式)
@@ -54,3 +56,4 @@
 - [《重学 Java 设计模式》](https://github.com/fuzhengwei/itstack-demo-design)
 - [《大话设计模式》](https://item.jd.com/10079261.html)
 - [菜鸟教程](https://www.runoob.com/design-pattern/design-pattern-intro.html)
+- [30分钟学会UML类图](https://zhuanlan.zhihu.com/p/109655171)
