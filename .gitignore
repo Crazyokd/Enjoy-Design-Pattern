@@ -1,3 +1,6 @@
 #idea相关
 *.iml
 .idea
+
+# Java
+*.class
