@@ -4,3 +4,12 @@
 
 # Java
 *.class
+
+#vscode相关
+.vscode/
+
+# C#相关
+[Bb]in/
+[Oo]bj/
+
+publish/
