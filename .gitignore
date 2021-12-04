@@ -13,3 +13,5 @@
 [Oo]bj/
 
 publish/
+
+*.sln
