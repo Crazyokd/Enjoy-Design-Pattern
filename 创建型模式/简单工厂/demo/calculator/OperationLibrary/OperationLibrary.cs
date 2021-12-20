@@ -183,7 +183,7 @@ public class OperationFactory
 {
     public static Operation createOperate(string operate)
     {
-        Operation oper = null;
+        Operation oper;
         switch (operate)
         {
             case "+":
@@ -221,6 +221,9 @@ public class OperationFactory
                     oper = new OperationReverse();
                     break;
                 }
+            default:
+                oper = null;
+                break;
         }
 
         return oper;
