@@ -2,8 +2,10 @@
 *.iml
 .idea
 
+
 # Java
 *.class
+out/
 
 #vscode相关
 .vscode/
