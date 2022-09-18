@@ -21,3 +21,7 @@
 - 具体的生成过程往往和产品（Product）相联系，所以Director类的职责在于指导生成Product。
 - 若需要扩展生成过程（ConcreteBuilder）的种类，只需要创建新的具体的ConcreteBuilder类即可（必要时还可以关联新的Product类）
 - 客户端方面只需要新建一组组的具体的ConcreteBuilder对象和Director对象，然后调用Director对象的特定方法（该方法在内部调用其ConcreteBuilder的所有生成过程）即可。
+
+## refactoringguru
+- 将build作为参数给director类的相应方法使用，在方法内对build进行装配。
+- 特点是装配的每一步骤是相同的，但顺序和相关参数由director中的具体方法指定。
